@@ -1555,7 +1555,7 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
-    optimizeGameObjects: 1
+    optimizeGameObjects: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -1570,192 +1570,7 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths:
-    - blen_set1:blen1
-    - eye_set2
-    - Group
-    - Group/Main
-    - Group/Main/MotionSystem
-    - Group/Main/MotionSystem/FKIKSystem
-    - Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_M
-    - Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_M/FKIKSpine_M
-    - Group/Main/MotionSystem/FKSystem
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetRoot_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetRoot_M/FKExtraRoot_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/HipSwingerGroupRoot_M
-    - Group/Main/MotionSystem/FKSystem/RootCenterBtwLegsBlended_M/CenterOffset_M/CenterExtra_M/Center_M/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M/HipSwingerGroupRoot_M/FKXRoot_M
-    - Group/Main/MotionSystem/IKSystem
-    - Group/Main/MotionSystem/IKSystem/IKHandle
-    - Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M
-    - Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M
-    - Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M
-    - Group/Main/MotionSystem/IKSystem/IKHandle/IKParentConstraintSpine0_M/IKExtraSpine0_M/IKSpine0_M/IKOrientToSpine_M
-    - Group/Main/MotionSystem/IKSystem/IKParentConstraint
-    - Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintRoot_M
-    - Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintRoot_M/IKOffsetRoot_M
-    - Group/Main/MotionSystem/IKSystem/IKParentConstraint/IKParentConstraintRoot_M/IKOffsetRoot_M/IKXRoot_M
-    - Mesh
-    - Mesh/ami_clothes
-    - Mesh/cheek
-    - Mesh/hair
-    - Root_M
-    - Root_M/_joint12
-    - Root_M/_joint12/_joint10
-    - Root_M/_joint43
-    - Root_M/_joint43/_joint30
-    - Root_M/_joint43/_joint30/_joint31
-    - Root_M/_joint43/_joint30/_joint31/_joint32
-    - Root_M/_joint43/_joint33
-    - Root_M/_joint43/_joint33/_joint31 1
-    - Root_M/_joint43/_joint33/_joint31 1/_joint32 1
-    - Root_M/_joint43/_joint34
-    - Root_M/_joint43/_joint34/_joint35
-    - Root_M/_joint43/_joint34/_joint35/_joint36
-    - Root_M/_joint43/_joint37
-    - Root_M/_joint43/_joint37/_joint38
-    - Root_M/_joint43/_joint37/_joint38/_joint39
-    - Root_M/_joint43/_joint40
-    - Root_M/_joint43/_joint40/_joint41
-    - Root_M/_joint43/_joint40/_joint41/_joint42
-    - Root_M/BackA_M
-    - Root_M/BackA_M/BackB_M
-    - Root_M/BackA_M/BackB_M/Chest_M
-    - Root_M/BackA_M/BackB_M/Chest_M/joint32
-    - Root_M/BackA_M/BackB_M/Chest_M/joint33
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/BLW_ANG
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/EB_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/EB_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/EL_ANG
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Eye
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/FaceA_ANG
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/FaceB_ANG
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5/jo_joint6
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5/jo_joint6/jo_joint7
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5/jo_joint6/jo_joint7/jo_joint8
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5/jo_joint6/jo_joint7/jo_joint8/jo_joint9
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint1/jo_joint2/jo_joint3/jo_joint4/jo_joint5/jo_joint6/jo_joint7/jo_joint8/jo_joint9/jo_joint10
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15/jo_joint16
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15/jo_joint16/jo_joint17
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15/jo_joint16/jo_joint17/jo_joint18
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15/jo_joint16/jo_joint17/jo_joint18/jo_joint19
-    - Root_M/BackA_M/BackB_M/Chest_M/Neck_M/NeckPart1_M/NeckPart2_M/Head_M/Hair_M/joint26/jo_joint11/jo_joint12/jo_joint13/jo_joint14/jo_joint15/jo_joint16/jo_joint17/jo_joint18/jo_joint19/jo_joint20
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/PinkyFinger1_L/PinkyFinger2_L/PinkyFinger3_L/PinkyFinger4_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/Cup_L/RingFinger1_L/RingFinger2_L/RingFinger3_L/RingFinger4_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L/IndexFinger4_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L/MiddleFinger4_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/ShoulderPart2_L/Elbow_L/ElbowPart1_L/ElbowPart2_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L/ThumbFinger4_L
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/PinkyFinger1_R/PinkyFinger2_R/PinkyFinger3_R/PinkyFinger4_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/Cup_R/RingFinger1_R/RingFinger2_R/RingFinger3_R/RingFinger4_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R/IndexFinger4_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R/MiddleFinger4_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R
-    - Root_M/BackA_M/BackB_M/Chest_M/Scapula_R/Shoulder_R/ShoulderPart1_R/ShoulderPart2_R/Elbow_R/ElbowPart1_R/ElbowPart2_R/Wrist_R/ThumbFinger1_R/ThumbFinger2_R/ThumbFinger3_R/ThumbFinger4_R
-    - Root_M/Hip_L
-    - Root_M/Hip_L/HipPart1_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/MiddleToe1_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/MiddleToe1_L/BigToe_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/MiddleToe1_L/MiddleToe2_L
-    - Root_M/Hip_L/HipPart1_L/HipPart2_L/Knee_L/Ankle_L/MiddleToe1_L/PinkyToe_L
-    - Root_M/Hip_R
-    - Root_M/Hip_R/HipPart1_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/MiddleToe1_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/MiddleToe1_R/BigToe_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/MiddleToe1_R/MiddleToe2_R
-    - Root_M/Hip_R/HipPart1_R/HipPart2_R/Knee_R/Ankle_R/MiddleToe1_R/PinkyToe_R
-    - Root_M/joint28
-    - Root_M/joint29
-    - Root_M/joint30
-    - Root_M/joint31
-    - Root_M/skirt_root
-    - Root_M/skirt_root/joint47
-    - Root_M/skirt_root/joint47/joint36
-    - Root_M/skirt_root/joint47/joint36/joint37
-    - Root_M/skirt_root/joint47/joint36/joint37/joint38
-    - Root_M/skirt_root/joint47/joint36/joint37/joint38/joint39
-    - Root_M/skirt_root/joint47/joint36/joint37/joint38/joint39/joint46
-    - Root_M/skirt_root/joint48
-    - Root_M/skirt_root/joint48/joint49
-    - Root_M/skirt_root/joint48/joint49/joint50
-    - Root_M/skirt_root/joint48/joint49/joint50/joint51
-    - Root_M/skirt_root/joint48/joint49/joint50/joint51/joint52
-    - Root_M/skirt_root/joint48/joint49/joint50/joint51/joint52/joint53
-    - Root_M/skirt_root/joint54
-    - Root_M/skirt_root/joint54/joint44
-    - Root_M/skirt_root/joint54/joint44/joint45
+    extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
@@ -1774,10 +1589,10 @@ ModelImporter:
       loopBlend: 0
       loopBlendOrientation: 1
       loopBlendPositionY: 1
-      loopBlendPositionXZ: 1
-      keepOriginalOrientation: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 1
+      keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
       bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
