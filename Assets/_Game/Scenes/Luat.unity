@@ -826,8 +826,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dataBiding: {fileID: 794157139}
+  animCombo:
+  - timeAttack: 0.2
+    timeAnim: 0.75
+    index: 1
+  - timeAttack: 0.2
+    timeAnim: 0.75
+    index: 2
+  - timeAttack: 0.2
+    timeAnim: 0.75
+    index: 3
+  - timeAttack: -1
+    timeAnim: 0.9
+    index: 4
   speedRotate: 800
-  speedMove: 5
 --- !u!1 &848502220
 GameObject:
   m_ObjectHideFlags: 0
