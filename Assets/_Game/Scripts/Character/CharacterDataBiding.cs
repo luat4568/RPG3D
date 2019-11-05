@@ -8,6 +8,9 @@ public class AnimationData
     public float timeAttack;
     public float timeAnim;
     public int index;
+    public float force;
+    public float angleForce;
+    public float dashLimit;
 }
 public class CharacterDataBiding : MonoBehaviour
 {
@@ -16,6 +19,10 @@ public class CharacterDataBiding : MonoBehaviour
     {
         set
         {
+            if (value > 0)
+            {
+                animator.applyRootMotion = true;
+            }
             animator.SetFloat(key_SpeedMove, value);
         }
     }
@@ -32,6 +39,7 @@ public class CharacterDataBiding : MonoBehaviour
         {
             if (value)
             {
+                animator.applyRootMotion = false;
                 animator.SetTrigger(key_Attack);
             }
         }
